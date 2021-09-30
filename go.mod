@@ -32,7 +32,7 @@ require (
 	github.com/jackc/pgx/v4 v4.11.1-0.20210326152507-88ede6efb5b0
 	github.com/jba/templatecheck v0.6.0
 	github.com/lib/pq v1.3.0
-	github.com/microcosm-cc/bluemonday v1.0.2
+	github.com/microcosm-cc/bluemonday v1.0.5
 	github.com/russross/blackfriday/v2 v2.0.1
 	github.com/yuin/goldmark v1.3.5
 	github.com/yuin/goldmark-emoji v1.0.1
